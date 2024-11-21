@@ -6,7 +6,6 @@ hsluv==5.0.4
 idna==3.10
 kiwisolver==1.4.7
 numpy==2.0.2
-p5==0.8.4
 Pillow==9.0.1
 pybind11==2.13.6
 PyOpenGL==3.1.6
